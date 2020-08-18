@@ -25,3 +25,4 @@ NOTE: We'd appreciate if you didn't rehost Aurora, using it in a localhost envir
 
 
 
+don't accept but create item shop and playlist please :'(
